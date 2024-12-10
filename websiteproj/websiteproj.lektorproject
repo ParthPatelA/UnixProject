@@ -1,0 +1,4 @@
+[project]
+name = websiteproj
+theme = lektor-theme-nix
+
